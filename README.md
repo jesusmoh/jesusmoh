@@ -13,7 +13,7 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="https://www.linkedin.com/in/jesusmho/" target="_blank">LinkedIn🌐</a></strong></h3>
 <p align='center'>Software Engineer |Java full cycle developer | Angular & Android developer | Devops </p>
 
-<p align='left'> 📫 I'm organized ,hardworking and dedicated. I worked on different projects with distinct roles as a developer or similar. I’m a Software Engineer with more 10 years of experience in IT and more the 7 as java full cycle developer with expertise in Angular, Docker, and Kubernetes, focused on architecture, quality & security in business models for Fintech, Retail & IT Health Care standards..</p>
+<p align='left'> 📫 I'm organized ,hardworking and dedicated. I worked on different projects with distinct roles as a developer or similar. I’m a Software Engineer with more 10 years of experience in IT and more the 7 as java full cycle developer with expertise in Angular, Docker, and Kubernetes, focused on architecture, quality & security .</p>
 
 Programmer specialized in **java development** using multiple **tools, frameworks and libraries**.
 
@@ -40,7 +40,8 @@ Programmer specialized in **java development** using multiple **tools, framework
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+` Fintech `, ` IT Health Care standards `, ` Retail `, ` Logistic Management `,` Cars Industry `.
+
 
 
 🌍 **Deployment platforms:**<br>
@@ -48,12 +49,11 @@ Programmer specialized in **java development** using multiple **tools, framework
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
 
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+🚩 **Leadership:** <br>
+<span>I have led small IT teams and juniors developers.</span>
 
 
 📚 **Working on:** <br>
-
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
